@@ -1,2 +1,2 @@
-# Registro_De_Códigos_Para_Aulas
-Registros basicos de aprendizado com python
+# Registro do código das aulas python eem lógica e processos de desenvolvimento de softwares
+01/12/2025
