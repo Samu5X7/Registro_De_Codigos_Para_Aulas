@@ -1,0 +1,30 @@
+2025-11-26 20:41:40,750 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-11-26 20:41:41,143 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/18704579 HTTP/1.1" 200 None
+2025-11-26 20:41:41,144 :: INFO :: 18704579 :: Rua Antônio Alves Ribeiro :: Samuel
+2025-11-26 20:42:53,557 :: ERROR :: O valor não é um número
+2025-11-26 20:43:31,766 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-11-26 20:43:32,311 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/0 HTTP/1.1" 400 204
+2025-11-26 20:44:54,009 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-11-26 20:44:54,746 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/0 HTTP/1.1" 400 204
+2025-11-26 20:46:16,330 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-11-26 20:46:16,937 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/100000000 HTTP/1.1" 400 204
+2025-11-26 20:47:29,976 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-11-26 20:47:30,639 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/0 HTTP/1.1" 400 204
+2025-11-26 20:53:13,594 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-11-26 20:53:14,327 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/0 HTTP/1.1" 400 204
+2025-11-26 20:54:39,715 :: ERROR :: O valor não é um número
+2025-11-26 20:54:49,861 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-11-26 20:54:51,210 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/0 HTTP/1.1" 400 204
+2025-12-01 18:57:45,875 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-12-01 18:57:47,695 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/18704579 HTTP/1.1" 200 None
+2025-12-01 18:57:47,701 :: INFO :: 18704579 :: Rua Antônio Alves Ribeiro :: Samuel
+2025-12-01 18:58:31,203 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-12-01 18:58:41,818 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/56364418 HTTP/1.1" 504 6433
+2025-12-01 19:06:56,888 :: ERROR :: O valor não é um número
+2025-12-01 19:06:59,124 :: ERROR :: O valor não é um número
+2025-12-01 19:31:08,218 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-12-01 19:31:08,764 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/.!ctkframe.!ctkentry2 HTTP/1.1" 400 204
+2025-12-01 19:56:41,393 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-12-01 19:56:41,909 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/.!ctkframe.!ctkentry2 HTTP/1.1" 400 204
+2025-12-01 19:56:44,016 :: DEBUG :: Starting new HTTPS connection (1): brasilapi.com.br:443
+2025-12-01 19:56:44,477 :: DEBUG :: https://brasilapi.com.br:443 "GET /api/cep/v1/.!ctkframe.!ctkentry2 HTTP/1.1" 400 204
